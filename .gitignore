@@ -1,0 +1,6 @@
+build/
+*.o
+xgw_agent
+xgw_seclog_test
+*.log
+*.pid
